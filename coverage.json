@@ -1,7 +1,9 @@
 {
   "software": "Softechpro Trucks v2.0.4",
   "repository": "iveco-truck-tuning-software",
+  "title": "Iveco Stralis, S-Way, EuroCargo & Daily ECU Tuning Software",
   "official_url": "https://www.softechpro-solutions.com/trucks/",
-  "matched_ecus": 0,
-  "coverage": {}
+  "github_pages_url": "https://softechpro-solutions.github.io/iveco-truck-tuning-software/",
+  "supported_brands_count": 0,
+  "coverage_sample": {}
 }
